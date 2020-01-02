@@ -1,0 +1,5 @@
+# PyCharm Generated Files #
+####################
+/.idea/*
+/__pycache__/*
+/venv/*
